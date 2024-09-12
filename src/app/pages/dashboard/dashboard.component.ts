@@ -15,7 +15,6 @@ export class DashboardComponent implements OnInit {
 
   ngOnInit(): void {
     this.getAllUsers()
-
   }
   getAllUsers(){
     debugger
