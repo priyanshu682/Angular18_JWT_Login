@@ -1,0 +1,3 @@
+pipes - custom
+directives - custom
+reusableComponent

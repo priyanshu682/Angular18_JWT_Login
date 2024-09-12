@@ -1,0 +1,6 @@
+Constant Folder : api constants || validation messages || regex expressions
+Models : class || interface
+services : utility || module services
+Enums
+Guards : canActivate
+Interceptors : tokenInterceptor || eventInterceptor
